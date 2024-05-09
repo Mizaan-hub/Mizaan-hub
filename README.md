@@ -9,7 +9,7 @@
 
 - 📫 How to reach me : [My Gmail](mizaanafandi@gmail.com)
 - 📄 Know about my experiences : [My LinkedIn](https://www.linkedin.com/in/mohammed-aymaan-7814902a0/)
-- ⚡ Fun fact : ```**Printing "Hello World" still satisfies me**```
+- ⚡ Fun fact : ```Printing "Hello World" still satisfies me```
 
   
 <h3 align="left">🤙 My Socials:-</h3>
