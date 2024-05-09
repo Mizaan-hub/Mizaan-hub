@@ -35,10 +35,10 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </p>
 
-<h3 align="left">🔥 Stats</h3>
+<h3 align="left">🔥 Stats</h3><br>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizaan-hub&layout=compact&theme=dark" alt=Mizaan-hub /><br>
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mizaan-hub&show_icons=true&locale=en&theme=dark" alt="Mizaan-hub" /></p><br>
+<br><p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mizaan-hub&show_icons=true&locale=en&theme=dark" alt="Mizaan-hub" /></p><br>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mizaan-hub&theme=dark" alt="Mizaan-hub" /></p><br>
 
