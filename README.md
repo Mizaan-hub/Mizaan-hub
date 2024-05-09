@@ -2,14 +2,14 @@
 <h1 align="center">Hi 👋, I'm Mohammed Aymaan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mizaan-hub&label=Profile%20views&color=0e75b6&style=flat" alt="Mizaan-hub" /> </p>
 
-- 🔭 I’m currently working on ```Exam Control System```
-- 👯 I’m looking to collaborate on ```Mini Projects```
-- 🤝 I’m looking for help with ```Salesforce```
-- 🌱 I’m currently learning ```Salesforce```
+- 🔭 I’m currently working on : ```Exam Control System```
+- 👯 I’m looking to collaborate on : ```Mini Projects```
+- 🤝 I’m looking for help with : ```Salesforce```
+- 🌱 I’m currently learning : ```Salesforce```
 
-- 📫 How to reach me [My Gmail](mizaanafandi@gmail.com)
-- 📄 Know about my experiences [My LinkedIn](https://www.linkedin.com/in/mohammed-aymaan-7814902a0/)
-- ⚡ Fun fact **Printing "Hello World" still satisfies me**
+- 📫 How to reach me : [My Gmail](mizaanafandi@gmail.com)
+- 📄 Know about my experiences : [My LinkedIn](https://www.linkedin.com/in/mohammed-aymaan-7814902a0/)
+- ⚡ Fun fact : ```**Printing "Hello World" still satisfies me**```
 
   
 <h3 align="left">🤙 My Socials:-</h3>
