@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Aymaan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mizaan-hub&label=Profile%20views&color=0e75b6&style=flat" alt="Mizaan-hub" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mizaan-hub&theme=" alt="Mizaan-hub" /></a> </p>
-
 - 🔭 I’m currently working on ```Exam Control System```
 - 👯 I’m looking to collaborate on ```Mini Projects```
 - 🤝 I’m looking for help with ```Salesforce```
@@ -13,9 +11,11 @@
 - 📄 Know about my experiences [My LinkedIn](https://www.linkedin.com/in/mohammed-aymaan-7814902a0/)
 - ⚡ Fun fact **Printing "Hello World" still satisfies me**
 
-<div> <a href="www.linkedin.com/in/mohammed-aymaan-7814902a0" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/Mizaan-hub" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:mizaanafandi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+<h3 align="left">🤙 My Socials:-</h3>
+<div> <a href="www.linkedin.com/in/mohammed-aymaan-7814902a0" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
+<a href="https://github.com/Mizaan-hub" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a><br>
+<a href = "mailto:mizaanafandi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
 
 
 <h3 align="left">⚙️ Languages and Tools:-</h3>
@@ -51,3 +51,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mizaan-hub&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mizaan-hub&theme=2077" height="180em" />
 </div>
+
+<h3 align="left">🎗️ Trophies</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mizaan-hub&theme=" alt="Mizaan-hub" /></a> </p>
