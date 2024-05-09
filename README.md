@@ -36,11 +36,11 @@
 </p>
 
 <h3 align="left">🔥 Stats</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizaan-hub&layout=compact&theme=dark" alt=Mizaan-hub />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizaan-hub&layout=compact&theme=dark" alt=Mizaan-hub /><br>
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mizaan-hub&show_icons=true&locale=en&theme=dark" alt="Mizaan-hub" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mizaan-hub&show_icons=true&locale=en&theme=dark" alt="Mizaan-hub" /></p><br>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mizaan-hub&theme=dark" alt="Mizaan-hub" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mizaan-hub&theme=dark" alt="Mizaan-hub" /></p><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
