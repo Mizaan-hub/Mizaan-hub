@@ -3,8 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mizaan-hub&label=Profile%20views&color=0e75b6&style=flat" alt="Mizaan-hub" /> </p>
 
 - 🔭 I’m currently working on : ```Building my experience and knowledge```
+- 🧑‍🎓 I'm currently studying at : [Mqi Degree College](https://www.mqidegreecollege.com/)
+- 📃 My current course is : ```BCA```
 - ⚒️ I'm currently Working at : [Aqxolt](https://www.axolt.com/)
 - 🙌 My current position is : ```Intern```
+- 😶‍🌫️ Check my progress at : [Trailblazer](https://www.salesforce.com/trailblazer/profile)
 - 👯 I’m looking to collaborate on : ```Mini Projects```
 - 🌱 I’m currently learning : ```Salesforce, Data Analytics, Full-Stack Development```
 
