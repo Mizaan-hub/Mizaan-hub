@@ -2,10 +2,11 @@
 <h1 align="center">Hi 👋, I'm Mohammed Aymaan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mizaan-hub&label=Profile%20views&color=0e75b6&style=flat" alt="Mizaan-hub" /> </p>
 
-- 🔭 I’m currently working on : ```Exam Control System```
+- 🔭 I’m currently working on : ```Building my experience and knowledge```
+- ⚒️ I'm currently Working at : [Aqxolt](https://www.axolt.com/)
+- 🙌 My current position is : ```Intern```
 - 👯 I’m looking to collaborate on : ```Mini Projects```
-- 🤝 I’m looking for help with : ```Salesforce```
-- 🌱 I’m currently learning : ```Salesforce```
+- 🌱 I’m currently learning : ```Salesforce, Data Analytics, Full-Stack Development```
 
 - 📫 How to reach me : [My Gmail](mizaanafandi@gmail.com)
 - 📄 Know about my experiences : [My LinkedIn](https://www.linkedin.com/in/mohammed-aymaan-7814902a0/)
