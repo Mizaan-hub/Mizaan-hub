@@ -9,7 +9,7 @@
 - 🙌 My current position is : ```Intern```
 - 😶‍🌫️ Check my progress at : [Trailblazer](https://www.salesforce.com/trailblazer/profile)
 - 👯 I’m looking to collaborate on : ```Mini Projects```
-- 🌱 I’m currently learning : ```Salesforce, Data Analytics, Full-Stack Development```
+- 🌱 I’m currently learning : ```Salesforce, MERN STACK, Mobile Application Development```
 
 - 📫 How to reach me : [My Gmail](mizaanafandi@gmail.com)
 - 📄 Know about my experiences : [My LinkedIn](https://www.linkedin.com/in/mohammed-aymaan-7814902a0/)
