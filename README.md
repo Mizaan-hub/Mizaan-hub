@@ -48,7 +48,7 @@
 </p>
 
 <h3 align="left">🔥 Stats</h3><br>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizaan-hub&layout=compact&theme=dark" alt=Mizaan-hub /><br>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizaan-hub&langs_count=8&theme=highcontrast" alt=Mizaan-hub /><br>
 
 <br><p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mizaan-hub&show_icons=true&locale=en&theme=dark" alt="Mizaan-hub" /></p><br>
 
