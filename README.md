@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mizaan-hub&label=Profile%20views&color=0e75b6&style=flat" alt="Mizaan-hub" /> </p>
 
 - 🔭 I’m currently working on : ```Building my experience and knowledge```
-- 🧑‍🎓 I'm studied at : [Mqi Degree College](https://www.mqidegreecollege.com/)
+- 🧑‍🎓 I've studied at : [Mqi Degree College](https://www.mqidegreecollege.com/)
 - 📃 My completed course is : ```BCA```
 - ⚒️ I'm currently Working at : [Aqxolt](https://www.axolt.com/)
 - 🙌 My current position is : ```Software Developer```
