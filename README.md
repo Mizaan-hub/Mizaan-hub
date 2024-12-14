@@ -3,17 +3,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mizaan-hub&label=Profile%20views&color=0e75b6&style=flat" alt="Mizaan-hub" /> </p>
 
 - 🔭 I’m currently working on : ```Building my experience and knowledge```
-- 🧑‍🎓 I'm currently studying at : [Mqi Degree College](https://www.mqidegreecollege.com/)
-- 📃 My current course is : ```BCA```
+- 🧑‍🎓 I'm studied at : [Mqi Degree College](https://www.mqidegreecollege.com/)
+- 📃 My completed course is : ```BCA```
 - ⚒️ I'm currently Working at : [Aqxolt](https://www.axolt.com/)
-- 🙌 My current position is : ```Intern```
+- 🙌 My current position is : ```Software Developer```
 - 😶‍🌫️ Check my progress at : [Trailblazer](https://www.salesforce.com/trailblazer/profile)
 - 👯 I’m looking to collaborate on : ```Mini Projects```
 - 🌱 I’m currently learning : ```Salesforce, MERN STACK, Mobile Application Development```
 
 - 📫 How to reach me : [My Gmail](mizaanafandi@gmail.com)
 - 📄 Know about my experiences : [My LinkedIn](https://www.linkedin.com/in/mohammed-aymaan-7814902a0/)
-- ⚡ Fun fact : ```Printing "Hello World" still satisfies me```
+
 
   
 <h3 align="left">🤙 My Socials:-</h3>
