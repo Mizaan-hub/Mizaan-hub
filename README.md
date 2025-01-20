@@ -6,7 +6,7 @@
 - 🧑‍🎓 I've studied at : [Mqi Degree College](https://www.mqidegreecollege.com/)
 - 📃 My completed course is : ```BCA```
 - ⚒️ I'm currently Working at : [Aqxolt](https://www.axolt.com/)
-- 🙌 My current position is : ```Software Developer```
+- 🙌 My current position is : ```Lead Developer```
 - 😶‍🌫️ Check my progress at : [Trailblazer](https://www.salesforce.com/trailblazer/profile)
 - 👯 I’m looking to collaborate on : ```Mini Projects```
 - 🌱 I’m currently learning : ```Salesforce, MERN STACK, Mobile Application Development```
